@@ -1,6 +1,6 @@
 import random
 import pyinputplus as pypi
-def play_game():
+def play_game():#猜數字遊戲
     min = 1
     max = 100
     count = 0
