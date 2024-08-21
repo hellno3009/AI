@@ -1,4 +1,5 @@
-import widght#或是用from widght import tools直接抓檔案
+import widght#或是用from widght import tools打這行
+
 while True:
     try:
         name = input("請輸入姓名: ")
