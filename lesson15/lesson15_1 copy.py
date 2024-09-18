@@ -47,8 +47,4 @@ df.to_csv('companys_output.csv', index=False, encoding='utf-8-sig')
 
 df.to_excel('companys_output.xlsx', index=False)
 
-<<<<<<< HEAD
 pprint(companys_list)
-=======
-pprint(companys_list)
->>>>>>> dc1870a6c293c880d491ca288e0829daab2c940b
